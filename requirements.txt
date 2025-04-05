@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+shap
+scikit-learn
+imbalanced-learn
+fpdf
+unidecode
+google-generativeai
